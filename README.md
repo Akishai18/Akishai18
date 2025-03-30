@@ -1,5 +1,5 @@
 ## Hey there! I'm Akishai 👋
-<img src="https://github.com/user-attachments/assets/5f274886-96e6-4838-bca7-de4b360c8366" width="1000"/>
+<img src="![image](https://github.com/user-attachments/assets/6a3288ec-17cb-4d49-948b-f64241aa4e30)" width="1000"/>
 
 I’m a developer on a mission to create, innovate, and push the boundaries of what's possible with technology. Passionate about learning and exploring new advancements, I strive to build impactful solutions that inspire change and make a meaningful difference.
 
