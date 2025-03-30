@@ -9,8 +9,20 @@ I’m a developer on a mission to create, innovate, and push the boundaries of w
 - 💡 I bring a background in **finance** and **leadership**, always looking for ways to merge my passions for finance and tech to build innovative solutions.
 
 ## 🚀 Technologies & Tools
-- **Languages**: ![image](https://github.com/user-attachments/assets/8db53362-f068-45da-8109-d3659c86060f), ![image](https://github.com/user-attachments/assets/5cd9b772-51f7-4e68-bb80-da5e5145f5cf), ![image (https://github.com/user-attachments/assets/cc101e72-332d-4ff8-ab50-dc5ca9cf9b59) ![image](https://github.com/user-attachments/assets/bba10f36-9464-420c-a7cc-40876a6e6565)
-- **Frameworks & Libraries**: ![image](https://github.com/user-attachments/assets/77a26083-2575-4bd9-a879-60f3e9cab335), ![image](https://github.com/user-attachments/assets/20ac070f-5ae0-482a-9f3b-8f2fc9361695),![image](https://github.com/user-attachments/assets/125d7b46-e40e-4f13-b608-717895c3826f) ![image](https://github.com/user-attachments/assets/55628e92-4cf0-4987-9fef-1684b014e196) ![image](https://github.com/user-attachments/assets/b8f3ed5f-9025-4295-ae1b-4d0b37ba5737)
+
+### Languages:
+- <img src="https://github.com/user-attachments/assets/8db53362-f068-45da-8109-d3659c86060f" width="30"/>
+- <img src="https://github.com/user-attachments/assets/5cd9b772-51f7-4e68-bb80-da5e5145f5cf" width="30"/>
+- <img src="https://github.com/user-attachments/assets/cc101e72-332d-4ff8-ab50-dc5ca9cf9b59" width="30"/>
+- <img src="https://github.com/user-attachments/assets/bba10f36-9464-420c-a7cc-40876a6e6565" width="30"/>
+
+### Frameworks & Libraries:
+- <img src="https://github.com/user-attachments/assets/77a26083-2575-4bd9-a879-60f3e9cab335" width="30"/>
+- <img src="https://github.com/user-attachments/assets/20ac070f-5ae0-482a-9f3b-8f2fc9361695" width="30"/>
+- <img src="https://github.com/user-attachments/assets/125d7b46-e40e-4f13-b608-717895c3826f" width="30"/>
+- <img src="https://github.com/user-attachments/assets/55628e92-4cf0-4987-9fef-1684b014e196" width="30"/>
+- <img src="https://github.com/user-attachments/assets/b8f3ed5f-9025-4295-ae1b-4d0b37ba5737" width="30"/>
+
 
 ## Let's Connect!
 - 📧 Email: [akishais18@gmail.com](mailto:akishais18@gmail.com)  
