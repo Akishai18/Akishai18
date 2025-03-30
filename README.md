@@ -1,5 +1,5 @@
 ## Hey there! I'm Akishai 👋
-![image](https://github.com/user-attachments/assets/5f274886-96e6-4838-bca7-de4b360c8366)
+<img src="https://github.com/user-attachments/assets/5f274886-96e6-4838-bca7-de4b360c8366" width="300"/>
 
 I’m a developer on a mission to create, innovate, and push the boundaries of what's possible with technology. Passionate about learning and exploring new advancements, I strive to build impactful solutions that inspire change and make a meaningful difference.
 
@@ -12,7 +12,6 @@ I’m a developer on a mission to create, innovate, and push the boundaries of w
 - 📧 Email: [akishais18@gmail.com](mailto:akishais18@gmail.com)  
 - 🔗 LinkedIn: [Akishai Sabaratnasarma](https://www.linkedin.com/in/akishai-sabaratnasarma-300857182/)  
 - 🌐 Personal Website: [akishai18.github.io](https://akishai18.github.io)
-
 
 <!--
 
