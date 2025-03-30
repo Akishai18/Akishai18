@@ -5,7 +5,7 @@ I’m a developer on a mission to create, innovate, and push the boundaries of w
 
 ## A Little About Me
 - 🎓 **Senior in high school**, heading to the University of Waterloo this fall to pursue **Software Engineering**.
-- 💻 Full-stack developer with a particular interest in **AI** and **Machine Learning**. I thrive on building full-stack applications that incorporate cutting-edge technologies.
+- 💻 Full-stack developer with a particular interest in **AI** and **Machine Learning**. I strive on building full-stack applications that incorporate cutting-edge technologies to solve problems.
 - 💡 I bring a background in **finance** and **leadership**, always looking for ways to merge my passions for finance and tech to build innovative solutions.
 
 ## Let's Connect!
