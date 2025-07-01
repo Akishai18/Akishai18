@@ -4,14 +4,17 @@
 I’m a developer on a mission to create, innovate, and push the boundaries of what's possible with technology. Passionate about learning and exploring new advancements, I strive to build impactful solutions that inspire change and make a meaningful difference.
 
 ## A Little About Me
-- 🎓 **Senior in high school**, heading to the University of Waterloo this fall to pursue **Software Engineering**.
+- 🎓 **Software Engineering Student** at the University of Waterloo
 - 💻 Full-stack developer with a particular interest in **AI** and **Machine Learning**. I strive on building full-stack applications that incorporate cutting-edge technologies to solve problems.
 - 💡 I bring a background in **finance** and **leadership**, always looking for ways to merge my passions for finance and tech to build innovative solutions.
+- 📈 Deeply interested in the world of **quantitative finance**, especially at the intersection of **trading** and **engineering**, where complex algorithms meet market dynamics.  
+- 🤖 Constantly exploring new ways to learn, experiment, and create with technology.
 
 ## 🚀 Technologies & Tools
 
 ### Languages:
 <img src="https://github.com/user-attachments/assets/8db53362-f068-45da-8109-d3659c86060f" width="50" style="margin-right: 15px;"/>
+<img src="https://github.com/user-attachments/assets/92840ad2-506d-4a70-b75d-751644ec7cd9" width="50" style="margin-right: 15px;" />
 <img src="https://github.com/user-attachments/assets/5cd9b772-51f7-4e68-bb80-da5e5145f5cf" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/cc101e72-332d-4ff8-ab50-dc5ca9cf9b59" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/bba10f36-9464-420c-a7cc-40876a6e6565" width="50" style="margin-right: 15px;"/>
