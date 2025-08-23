@@ -22,7 +22,7 @@ I’m a developer on a mission to create, innovate, and push the boundaries of w
 <img src="https://github.com/user-attachments/assets/5cd9b772-51f7-4e68-bb80-da5e5145f5cf" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/cc101e72-332d-4ff8-ab50-dc5ca9cf9b59" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/bba10f36-9464-420c-a7cc-40876a6e6565" width="50" style="margin-right: 15px;"/>
-<img src="https://github.com/user-attachments/assets/b918bfe5-b09f-4cad-b8c2-713f65fd49fb" width="50" style="margin-right: 15px; margin-bottom:5px"/>
+<img src="https://github.com/user-attachments/assets/b918bfe5-b09f-4cad-b8c2-713f65fd49fb" width="50" style="margin-right: 15px; margin-bottom:15px"/>
 
 ### Frameworks & Libraries:
 <img src="https://github.com/user-attachments/assets/77a26083-2575-4bd9-a879-60f3e9cab335" width="50" style="margin-right: 15px;"/>
