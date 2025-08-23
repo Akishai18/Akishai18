@@ -10,14 +10,19 @@ I’m a developer on a mission to create, innovate, and push the boundaries of w
 - 📈 Deeply interested in the world of **quantitative finance**, especially at the intersection of **trading** and **engineering**, where complex algorithms meet market dynamics.  
 - 🤖 Constantly exploring new ways to learn, experiment, and create with technology.
 
+- Intern @ North P&D – Worked on client-facing projects across industries, delivering features such as CRM upgrades, custom LMS development, and a full-scale automotive marketplace platform.
+- Intern @ Nvestiv – Developed a semantic search RAG application for investor information, leveraging vector databases, agent systems, with DuckDB MCP for contextual retrieval.
+- Research Assistant @ University Of Toronto in the Shoichet Lab - Applied machine learning to tissue engineering and drug delivery, developing machine - learning models to predict and optimize hydrogel-based therapeutic systems
+- 
 ## 🚀 Technologies & Tools
 
 ### Languages:
 <img src="https://github.com/user-attachments/assets/8db53362-f068-45da-8109-d3659c86060f" width="50" style="margin-right: 15px;"/>
-<img src="https://github.com/user-attachments/assets/92840ad2-506d-4a70-b75d-751644ec7cd9" width="50" style="margin-right: 15px;" />
+<img src="https://github.com/user-attachments/assets/92840ad2-506d-4a70-b75d-751644ec7cd9" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/5cd9b772-51f7-4e68-bb80-da5e5145f5cf" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/cc101e72-332d-4ff8-ab50-dc5ca9cf9b59" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/bba10f36-9464-420c-a7cc-40876a6e6565" width="50" style="margin-right: 15px;"/>
+<img src="https://github.com/user-attachments/assets/b918bfe5-b09f-4cad-b8c2-713f65fd49fb" width="50" style="margin-right: 15px;"/>
 
 ### Frameworks & Libraries:
 <img src="https://github.com/user-attachments/assets/77a26083-2575-4bd9-a879-60f3e9cab335" width="50" style="margin-right: 15px;"/>
@@ -26,6 +31,7 @@ I’m a developer on a mission to create, innovate, and push the boundaries of w
 <img src="https://github.com/user-attachments/assets/5c6f1019-f1a7-434b-88c9-3550d3ce2f20" width="50" style="margin-right: 15px;" />
 <img src="https://github.com/user-attachments/assets/55628e92-4cf0-4987-9fef-1684b014e196" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/b8f3ed5f-9025-4295-ae1b-4d0b37ba5737" width="50"/>
+<img src="https://github.com/user-attachments/assets/251b5086-29a9-44cf-b1a0-189930e6a61c" width="50" style="margin-right: 15px;"/>
 
 ## Let's Connect!
 - 📧 Email: [akishais18@gmail.com](mailto:akishais18@gmail.com)  
