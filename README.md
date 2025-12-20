@@ -18,6 +18,7 @@ I’m a developer on a mission to create, innovate, and push the boundaries of w
 
 ### Languages:
 <img src="https://github.com/user-attachments/assets/8db53362-f068-45da-8109-d3659c86060f" width="50" style="margin-right: 15px;"/>
+<img src="https://github.com/user-attachments/assets/b627138c-64bc-4a82-a52b-85bca4eb5fba" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/92840ad2-506d-4a70-b75d-751644ec7cd9" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/5cd9b772-51f7-4e68-bb80-da5e5145f5cf" width="50" style="margin-right: 15px;"/>
 <img src="https://github.com/user-attachments/assets/cc101e72-332d-4ff8-ab50-dc5ca9cf9b59" width="50" style="margin-right: 15px;"/>
