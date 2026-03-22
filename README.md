@@ -1,7 +1,7 @@
 # Hey there! I'm Akishai 👋
 ![image](https://github.com/user-attachments/assets/9f1f94ca-9735-48e5-8833-a31256653b2a)
 
-I’m a developer on a mission to create, innovate, and push the boundaries of what's possible with technology. Passionate about learning and exploring new advancements, I strive to build impactful solutions that inspire change and make a meaningful difference.
+I’m a developer on a mission to create, innovate, and push the boundaries of what's possible with technology. Passionate about AI, ML, and Quantitative Finance, I am eager to explore new advancements to build impactful solutions that turn bold ideas into reality.
 
 ## A Little About Me
 - 🎓 **Software Engineering Student** at the University of Waterloo
