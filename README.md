@@ -14,7 +14,7 @@ I’m a developer on a mission to create, innovate, and push the boundaries of w
 - SWE Intern @ North P&D – Worked on client-facing projects across industries, delivering features such as CRM upgrades, custom LMS development, and a full-scale automotive marketplace platform.
 - SWE Intern @ Nvestiv – Developed a semantic search RAG application for investor information, leveraging vector databases, agent systems, with DuckDB MCP for contextual retrieval.
 - Research Assistant @ University Of Toronto in the Shoichet Lab - Applied machine learning to tissue engineering and drug delivery, developing machine - learning models to predict and optimize hydrogel-based therapeutic systems
-- Building Market Regime - a live market regime detection + forecasting system that clusters equities into interpretable regimes and produces probabilistic 1/7/30-day outlooks for risk-aware portfolio decision-making
+- Building [SignalM](https://www.signalm.ca) - a live market regime detection platform that detects and forecasts market regime shifts using unsupervised ML, factor analysis, and backtested allocation strategies, with live dashboards and multi-model probabilistic predictions for risk-aware portfolio management
 
 ## 🚀 Technologies & Tools
 
